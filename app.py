@@ -14,8 +14,8 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///API.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
 db = SQLAlchemy(app)
 auth = HTTPBasicAuth()
-twilio_ssid = "AC4f6867109f25510476f1cd93aa13293e"
-twilio_auth = "9fbeafc68bf22833b72cbd543d739e44"
+twilio_ssid = ""
+twilio_auth = ""
 client = Client(twilio_ssid, twilio_auth)
 CORS(app)
 
