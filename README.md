@@ -1,11 +1,11 @@
 # OTP-verification-Twilio
 
 ## Depedencies:
-1.Flask
-2.flask-httpauth
-3.flaslk-sqlalchemy
-4.flask-cors
-5.twilio
+1. Flask
+2. flask-httpauth
+3. flaslk-sqlalchemy
+4. flask-cors
+5. twilio
 
 ## Instruction:
 1. Install  Depedencies
